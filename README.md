@@ -1,12 +1,12 @@
 # Overview of Project
 
 ## Purpose
-We must determine the number of retiring employees per title while also identifing which employees will be eligible for the mentorship program. We would like our company to be prepared for the wave of employees who will reach retirement age.
+We must determine the number of retiring employees per title while also identifying which employees will be eligible for the mentorship program. We would like our company to be prepared for the wave of employees who will reach retirement age.
 
 ## Results
 
 It is important to not only research how many employees are reaching retirement age, but what current titles these employees hold.
-<br/><br/>
+<br/>
 Looking at the below chart, we can see that a big chunk of our near retirement group are currently Senior Engineers or hold a Senior Staff title:
 
 **Retiring Titles:** <br/>
